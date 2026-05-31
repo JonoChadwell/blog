@@ -1,7 +1,8 @@
 # The Technical Lead
 
 > What would you say you do here?
-> - Bob Slydell, Office Space
+>
+> _Bob Slydell, Office Space_
 
 I was given the title of "Technical Lead" in 2021 and I've been thinking about this question ever since. What is it that a technical lead does? I've finally come up with an answer that feels right to me.
 
