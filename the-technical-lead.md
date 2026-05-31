@@ -1,8 +1,3 @@
----
-description: What does a technical lead do?
-date: 2026-05-31
----
-
 # The Technical Lead
 
 > What would you say you do here?
