@@ -1,3 +1,3 @@
-Thoughts I've Thunk.
+Thoughts I've thunk.
 
 All rights reserved. Do not copy without asking.
